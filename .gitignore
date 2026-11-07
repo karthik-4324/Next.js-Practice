@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+### Node / Frontend ###
+**/node_modules/
+.eslintcache
+.clear
